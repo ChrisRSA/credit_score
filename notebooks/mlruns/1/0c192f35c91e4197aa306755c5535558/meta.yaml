@@ -1,0 +1,15 @@
+artifact_uri: /mnt/notebooks/mlruns/1/0c192f35c91e4197aa306755c5535558/artifacts
+end_time: 1638788884557
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 0c192f35c91e4197aa306755c5535558
+run_uuid: 0c192f35c91e4197aa306755c5535558
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1638788872493
+status: 3
+tags: []
+user_id: chrisg

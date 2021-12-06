@@ -1,0 +1,4 @@
+artifact_location: /mnt/notebooks/mlruns/1
+experiment_id: 1
+lifecycle_stage: active
+name: credit_score
